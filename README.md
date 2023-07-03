@@ -30,6 +30,10 @@ The Notebook.ipynb script contains the code for preprocessing the dataset, train
 The model is trained on a training set and evaluated using a separate test set. 
 The evaluation metrics used include mean absolute error (MAE), mean squared error (MSE), and R-squared value.
 
+**Hyperparameter Tuning**
+
+The model's hyperparameters are tuned to optimize its performance. The Notebook.py script uses scikit-learn's GridSearchCV to perform a grid search over a predefined set of hyperparameters. The best hyperparameters are then used to retrain the model.
+
 **Front-end Website**
 
 A front-end website has been developed to provide a user-friendly interface for predicting house prices. 
