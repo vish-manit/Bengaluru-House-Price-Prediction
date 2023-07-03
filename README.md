@@ -41,5 +41,8 @@ The website is built using HTML, CSS, and JavaScript.
 Flask is used as the backend server to handle requests and serve the predictions made by the machine learning model. 
 The website allows users to input various features of a house and obtain the predicted price.
 
+![pr](https://github.com/vish-manit/Bengaluru-House-Price-Prediction/assets/124067731/3b08a358-b03e-4073-9c31-bde0a7dad7ef)
+
+
 
 
