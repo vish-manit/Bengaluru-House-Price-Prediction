@@ -5,10 +5,11 @@ The model is built using various libraries such as pandas, matplotlib, seaborn, 
 Additionally, a front-end website has been created using HTML, CSS, and JavaScript, with Flask used as the backend server.
 
 **Table of Contents**
-Introduction
-Dataset
-Model Development
-Front-end Website
+1. Introduction
+2. Dataset
+3. Model Development
+4. Front-end Website
+
 
 **Introduction**
 The goal of this project is to develop a machine learning model that can predict house prices in Bengaluru based on various features. 
